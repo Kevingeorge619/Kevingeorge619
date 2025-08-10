@@ -17,20 +17,22 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
 
 ## ⚡ Skills & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-  <img src="./assets/burp.svg" alt="Burp Suite (local)" width="40" height="40" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg'"/>
-  <img src="https://raw.githubusercontent.com/ehsancodes/nmap-icons/main/nmap.png" alt="Nmap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/m4ll0k/Metasploit-Gallery/master/logo/metasploit.png" alt="Metasploit" width="40" height="40"/>
-
+  
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
+  
+  <!-- Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
@@ -40,8 +42,8 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
   <a href="https://github.com/Kevingeorge619" title="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/kevin-george-90b73b255/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  <a href="https://www.linkedin.com/in/kevin-george-90b73b255/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 

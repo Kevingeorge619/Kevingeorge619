@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub+lab;Cybersecurity+is+my+playground;Breaking+ethically%2C+building+securely)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
 
 ## 📌 Quick Facts
 - 🎓 MCA student passionate about **ethical hacking** and **security research**
-- 💻 Fluent in: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
+- 💻 Knowledge in: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
 - 🛠 Exploring: `Nmap`, `Burp Suite`, `Metasploit`
 - 📚 Currently learning **Network Security** & **Web App Pentesting**
 - 🎯 Goal: Keep leveling up my cybersecurity skills & explore every layer of digital defense

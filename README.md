@@ -25,11 +25,6 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevingeorge619&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevingeorge619&layout=compact&theme=chartreuse-dark)
-
----
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Kevingeorge619)
@@ -43,9 +38,3 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
 > `"In a world of firewalls, be the zero-day exploit."`
 
 ---
-
-<!-- Visitor Counter -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kevingeorge619.Kevingeorge619)
-
-
--->

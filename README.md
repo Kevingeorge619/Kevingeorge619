@@ -1,9 +1,7 @@
-# Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub+lab;Cybersecurity+is+my+playground;Breaking+ethically%2C+building+securely)](https://git.io/typing-svg)
 
 # 🛡️ About Me
-Hi, I'm **Kevin George** an MCA student and aspiring **CyberSecurity Professional**. 
+Hi, I'm **Kevin George** an MCA student and aspiring **CyberSecurity Professional**.  
 I love diving into security challenges, learning new tech, and turning vulnerabilities into strengths.
 
 ---
@@ -18,23 +16,40 @@ I love diving into security challenges, learning new tech, and turning vulnerabi
 ---
 
 ## ⚡ Skills & Tools
-
-| Languages | Security Tools | Platforms |
-|-----------|---------------|-----------|
-| ![C](https://img.shields.io/badge/-C-000?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?logo=python) ![Java](https://img.shields.io/badge/-Java-000?logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript) | ![Nmap](https://img.shields.io/badge/-Nmap-2C2D72?logo=probot) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?logo=burpsuite) ![Metasploit](https://img.shields.io/badge/-Metasploit-000?logo=probot) | ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux) ![Git](https://img.shields.io/badge/-Git-000?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github) |
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
+  
+  <!-- Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
-
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Kevingeorge619)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/kevin-george-90b73b255/)
-
-
+<p align="center">
+  <a href="https://github.com/Kevingeorge619">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-george-90b73b255/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 💀 Fun Hacker Quote
 > `"In a world of firewalls, be the zero-day exploit."`
-
----

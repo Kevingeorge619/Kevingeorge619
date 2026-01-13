@@ -6,7 +6,7 @@ I love diving into security challenges, learning new tech.
 
 ---
 
-## 📌 Quick Facts
+## Quick Facts
 - 🎓 MCA student passionate about **ethical hacking** and **security research**
 - 💻 Knowledge in: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
 - 🛠 Exploring: `Nmap`, `Burp Suite`, `Metasploit`
